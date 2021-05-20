@@ -126,7 +126,7 @@ export default class Settings extends React.Component {
               size={RFValue(20)}
               iconStyle={{ paddingLeft: RFValue(10) }}
             />
-            />
+            
           </TouchableOpacity>
         </View>
       </ImageBackground>
